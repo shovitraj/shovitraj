@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-
-**shovitraj/shovitraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on AI, Natural Language Progessing, and Computer Vision
 - 🌱 I’m currently learning Deeplearning and Quantum Machine Learning
 - 👯 I’m looking to collaborate on NLP, Computer Vision, and Quantum Machine Learning
